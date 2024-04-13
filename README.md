@@ -1,10 +1,8 @@
-### Hi, I am DY_XiaoDong! 👋
+### Hi, I am [DY_XiaoDong](https://xiaodong.moe/)
 
-- A ~~14~~(15) years old web developer.
-- A Form 3 student.
-- My Email: xiaodong@indouyin.cn
-- Leave me a word: [Click Here](https://github.com/dy-xiaodong2022/dy-xiaodong2022/issues/) or Email me.
+Have a little bit of knowledge of web development, a full-time student in Hong Kong, S.3.
 
+Find me any time via hi@xiaodong.moe
 
 ### Quick OverView
 
