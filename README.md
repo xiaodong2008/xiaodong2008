@@ -19,5 +19,5 @@ If my work helps you, you can sponsor me via [GitHub Sponsors](https://github.co
 ### Sponsors
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/dy-xiaodong2022/sponsors/main/sponsors.wide.svg" />
+    <img src="https://raw.githubusercontent.com/xiaodong2008/sponsors/main/sponsors.wide.svg" />
 </p>
