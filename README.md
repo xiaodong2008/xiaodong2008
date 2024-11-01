@@ -1,12 +1,10 @@
 ### Hi, I am [DY_XiaoDong](https://xiaodong.moe/)
 
-Have a little bit of knowledge of web development, a full-time student in Hong Kong, S.3.
-
-I'm now working at [@szkeli](https://github.com/szkeli), a company in Shenzhen, China.
+Have a little bit of knowledge of web development, a full-time student in Hong Kong, S.4.
 
 If your company is hiring, you may consider me, my online resume is [ready to go](https://resume.xiaodong.moe/).
 
-If my work helps you, you can sponsor me via [GitHub Sponsors](https://github.com/sponsors/xiaodong2008)<!-- or [AfDian](https://afdian.net/a/xiaodong2008) -->, this will help me to continue my work.
+If my work helps you, you can sponsor me via [GitHub Sponsors](https://github.com/sponsors/xiaodong2008) or [AfDian](https://afdian.net/a/xiaodong2008), this will help me to continue my work.
 
 ### Quick OverView
 
