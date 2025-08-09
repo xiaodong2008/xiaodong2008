@@ -22,7 +22,8 @@ If my work helps you, you can sponsor me via [GitHub Sponsors](https://github.co
 Here are some of my active projects, that I'm working on and I recommend you to check them out.
 
 - [Mail Helper](https://github.com/xiaodong2008/mail-helper): This is a web app that helps you to send a professional email quickly and easily, AI powered.
-- [Fastjs](https://github.com/fastjs-team/fastjs): This is a library that helps you use JavaScript more efficiently, focus on the development instead of choosing which library to use for each feature. _We're currently building a new version._
+- [Image Tools](https://github.com/xiaodong2008/image-tools): A site with a series of tools for image processing, like image stitching, without uploading your images to any server.
+- [Fastjs](https://github.com/fastjs-team/core): This is a library that helps you use JavaScript more efficiently, focus on the development instead of choosing which library to use for each feature. _We're currently building a new version._
 
 <!-- ![GitHub Stat](https://stats.xiaodong.moe/api?username=xiaodong2008&show=prs_merged_percentage&show_icons=true&theme=transparent&hide=contribs,stars&hide_border=true&include_all_commits=true&custom_title=GitHub%20Stats&cache_seconds=43200) -->
 
