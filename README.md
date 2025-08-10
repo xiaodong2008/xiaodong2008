@@ -13,9 +13,6 @@ If my work helps you, you can sponsor me via [GitHub Sponsors](https://github.co
 - HKCERT and HKPC organized [HKCERT Capture The Flag 2024](https://www.hkcert.org/event/capture-the-flag-challenge-2024) Open Category [1st runner-up](https://cse.hkust.edu.hk/News/CTF2024/)
 <!-- - WorldSkills Hong Kong Competition 2025 Web Technologies -->
 - The Champion of [Web Technologies](https://worldskills.org/skills/id/127/) in [WorldSkills](https://en.wikipedia.org/wiki/WorldSkills) Hong Kong Competition 2025
- 
-- 香港网络安全事故协调中心及香港生产力局主办 [香港网络安全夺旗赛2024](https://www.hkcert.org/event/capture-the-flag-challenge-2024) 公开组 [全港第二](https://cse.hkust.edu.hk/News/CTF2024/)
-- [世界技能大赛](https://en.wikipedia.org/wiki/WorldSkills)(香港) [网站全端科技](https://worldskills.org/skills/id/127/) 全港第一
 
 ### My Projects
 
