@@ -1,6 +1,6 @@
 ### Hi, I am [XiaoDong](https://xiaodong.moe/)
 
-Have knowledge of web development, a full-time student in Hong Kong, S.4.
+Have knowledge of web development, a full-time student in Hong Kong, S.5.
 
 I'm now working at a company in Shenzhen, China, as a Software Engineer Intern, mainly focusing on web development and some backend development.
 
