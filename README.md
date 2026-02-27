@@ -8,7 +8,7 @@ If your company is hiring, you may consider me, my online resume is [ready to go
 
 If my work helps you, you can sponsor me via [GitHub Sponsors](https://github.com/sponsors/xiaodong2008), this will help me to continue my work.
 
-If you want to support me or [CodeNav](https://codenav.dev/), you can also donate [here](https://donate.stripe.com/4gM7sNeBr8gm163g7bbEA08), 1% of your donation goes to [Stripe Climate](https://climate.stripe.com/91QKiN) es
+If you want to support me or [CodeNav](https://codenav.dev/), you can also donate [here](https://donate.stripe.com/4gM7sNeBr8gm163g7bbEA08), 1% of your donation goes to [Stripe Climate](https://climate.stripe.com/91QKiN).
 
 ### Achievements
 
