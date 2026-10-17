@@ -1,33 +1,29 @@
-### Hi, I am [XiaoDong](https://xiaodong.moe/)
+### Hi, I'm [XiaoDong](https://xiaodong.moe/)
 
-Have knowledge of web development, a full-time student in Hong Kong, S.6. Medal for Excellence in Web Technologies at WorldSkills 2026, ranked 13th in the world.
+Web developer and S.6 student in Hong Kong. I run [CodeNav](https://codenav.dev), where I build and ship products on my own with coding agents.
 
-I'm now building a startup company called [CodeNav](https://codenav.dev), which provide series of SaaS services.
+My resume is [here](https://resume.xiaodong.moe/) if your team is hiring.
 
-If your company is hiring, you may consider me, my online resume is [ready to go](https://resume.xiaodong.moe/).
+### What I'm building
 
-If my work helps you, you can sponsor me via [GitHub Sponsors](https://github.com/sponsors/xiaodong2008), this will help me to continue my work.
+- [Boxly](https://boxly.codenav.dev/): a MySQL, PHP and web dev classroom in the browser. Create databases, run SQL and PHP instantly, follow structured lessons, or teach a class from the teacher panel.
+- [Unpanel](https://github.com/codenav-ltd/unpanel): one lightweight web UI for the load, alerts, containers, processes, sites and certificates of all your servers. Open source, [try it](https://unpanel.codenav.dev).
+- [DevPod](https://devpod.codenav.dev/): 80+ developer utilities in one native app for Mac and Windows.
+- [Fastjs](https://github.com/fastjs-team/core): a library that helps you use JavaScript more efficiently, so you focus on development instead of choosing a library for each feature. _We're currently building a new version._
 
-If you want to support me or [CodeNav](https://codenav.dev/), you can also donate [here](https://donate.stripe.com/4gM7sNeBr8gm163g7bbEA08), 1% of your donation goes to [Stripe Climate](https://climate.stripe.com/91QKiN).
+### Open source
+
+I contribute to [Vue](https://github.com/vuejs) (including the [Chinese](https://github.com/vuejs-translations/docs-zh-cn) and [Traditional Chinese](https://github.com/vuejs-translations/docs-zh-hk) docs) and [Slidev](https://github.com/slidevjs/slidev).
 
 ### Achievements
 
-- HKCERT and HKPC organized [HKCERT Capture The Flag 2024](https://www.hkcert.org/event/capture-the-flag-challenge-2024) Open Category [1st runner-up](https://cse.hkust.edu.hk/News/CTF2024/)
+- [Medal for Excellence](https://worldskills2026.com/) in [Web Technologies](https://worldskills.org/skills/id/127/) at the [WorldSkills Competition 2026](https://worldskills2026.com/), 13th in the world
+- Champion of [Web Technologies](https://worldskills.org/skills/id/127/) at the [WorldSkills](https://en.wikipedia.org/wiki/WorldSkills) Hong Kong Competition 2025
+- [1st runner-up](https://cse.hkust.edu.hk/News/CTF2024/), Open Category, [HKCERT Capture The Flag 2024](https://www.hkcert.org/event/capture-the-flag-challenge-2024)
 
-- The Champion of [Web Technologies](https://worldskills.org/skills/id/127/) in [WorldSkills](https://en.wikipedia.org/wiki/WorldSkills) Hong Kong Competition 2025
+### Support
 
-- [Medal for Excellence](https://worldskills2026.com/) in [Web Technologies](https://worldskills.org/skills/id/127/) at the [WorldSkills Competition 2026](https://worldskills2026.com/), ranked 13th in the world
-
-### My Projects
-
-Here are some of my active projects, that I'm working on and I recommend you to check them out.
-
-- [Boxly](https://boxly.codenav.dev/): Boxly lets you create your own databases and run SQL in the browser, with syntax highlighting and instant results. Learn SQL step by step with structured lessons from basics to advanced, or use it in the classroom with the teacher panel.
-- [Fastjs](https://github.com/fastjs-team/core): This is a library that helps you use JavaScript more efficiently, focus on the development instead of choosing which library to use for each feature. _We're currently building a new version._
-
-<!-- ![GitHub Stat](https://stats.xiaodong.moe/api?username=xiaodong2008&show=prs_merged_percentage&show_icons=true&theme=transparent&hide=contribs,stars&hide_border=true&include_all_commits=true&custom_title=GitHub%20Stats&cache_seconds=43200) -->
-
-### Sponsors
+If my work helps you, you can sponsor me on [GitHub Sponsors](https://github.com/sponsors/xiaodong2008) or [donate via Stripe](https://donate.stripe.com/4gM7sNeBr8gm163g7bbEA08) (1% goes to [Stripe Climate](https://climate.stripe.com/91QKiN)).
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/xiaodong2008/sponsors/main/sponsors.wide.svg" />
